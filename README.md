@@ -31,6 +31,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 I tried first to find the users location and set that as the default point but run into several issues with that.
 Android Studio also freezed on me a couple of times.
+I also had to make my walkthrough video really short because anything moere than en seconds makes the gif really large.
+My app has all the basic fundctionality + the ability to switch the view to satellite mode
 
 ## License
 
